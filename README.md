@@ -45,24 +45,6 @@ Empirical results show:
 No significant loss in accuracy
 Consistent latency across inputs
 
-EOBDS/
-│
-├── TrainingFiles/        # Input datasets (ignored in Git)
-├── Output/               # Generated results
-│
-├── basic_functions.py
-├── bds_fun.py            # BDS construction
-├── new_bds_fun.py
-├── new_obds_func.py      # OBDS implementation
-├── new_train.py          # Training pipeline
-├── predictf.py           # Inference module
-│
-├── IG_func.py            # Information gain
-├── gmm_mml.py            # Model utilities
-├── MintermCal.py         # Boolean minterm calculations
-│
-└── .gitignore
-
 ⚙️ Installation
 🔹 Create virtual environment
 
