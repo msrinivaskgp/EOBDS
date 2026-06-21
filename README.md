@@ -6,6 +6,7 @@ Binary Decision Trees (BDTs) are widely used in machine learning due to their in
 
 This repository introduces a novel framework that reformulates BDTs into **Boolean decision representations**, enabling **constant-time inference** independent of tree depth.
 
+https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2026.1801613/full
 ---
 
 ## 🧠 Key Idea
